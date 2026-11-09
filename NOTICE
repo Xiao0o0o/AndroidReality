@@ -1,0 +1,15 @@
+AndroidReality
+
+This product includes software from the following projects.
+
+AndroidWorld (https://github.com/google-research/android_world)
+Copyright The android_world Authors.
+Licensed under the Apache License, Version 2.0.
+See third_party_licenses/android_world-LICENSE.
+
+Mobile-Agent-v3 evaluation code (https://github.com/X-PLUG/MobileAgent)
+Copyright (c) 2022 mPLUG.
+Licensed under the MIT License.
+See third_party_licenses/MobileAgent-LICENSE.
+
+Modifications to these projects are listed in docs/UPSTREAM_CHANGES.md.

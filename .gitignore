@@ -9,6 +9,7 @@ __pycache__/
 venv/
 
 # Runtime outputs
+vlm_token_logs_android/
 random_perturb_runs/
 perturbation/random_perturb_runs/
 recovery/random_perturb_runs/
@@ -23,6 +24,7 @@ trajs/
 build/
 **/build/
 *.apk
+!perturbation_helper_android_studio/prebuilt/*.apk
 *.aab
 local.properties
 
